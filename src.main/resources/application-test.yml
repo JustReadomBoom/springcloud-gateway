@@ -1,0 +1,9 @@
+# Apollo 相关配置项
+app:
+  id: 555888
+apollo:
+  meta: http://47.119.168.151:8080
+  bootstrap:
+    enabled: true
+    eagerLoad:
+      enabled: true
